@@ -1,4 +1,4 @@
-package aoc_executor
+package tcollier
 
 import java.time.Duration
 import java.time.Instant

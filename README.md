@@ -2,19 +2,11 @@
 
 Kotlin executor for the [Advent of Code Solver](https://github.com/tcollier/aoc_solver).
 
-## Installation
-
-Add this line to your application's build.gradle:
-
-```ruby
-gem 'aoc_executor'
-```
-
 ## Usage
 
 ```kotlin
 // Main.kt
-import aoc_executor.AocExecutor
+import tcollier.AocExecutor
 
 fun part1Answer(input: List<String>): String {
     return // part 1 answer
